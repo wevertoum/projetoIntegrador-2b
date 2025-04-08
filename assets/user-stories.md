@@ -30,7 +30,7 @@
 **🙍‍♂️ História de Usuário:**  
 **Eu, como usuário:** Lucas, organizador de acampamentos,  
 **Eu quero/gostaria:** cadastrar um evento com nome, data, número de vagas, valor da inscrição e configuração de quartos,  
-**Para que eu:** possa organizar os acampamentos de forma estruturada e automatizada.
+**Para que eu:** possa organizar os acampamentos de forma estruturada e automatizada e enviar o link desse evento para os acampantes.
 
 **🤦‍♀️ Dores:**
 
