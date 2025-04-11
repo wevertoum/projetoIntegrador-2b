@@ -1,6 +1,9 @@
 # Projeto Integrador II-B
 
-O Projeto Integrador II-B propõe o desenvolvimento de um sistema de gerenciamento de eventos voltado para acampamentos, com o objetivo de otimizar a organização de acampamentos em um contexto de igrejas. A solução, batizada de "CampGestor", permite que organizadores cadastrem eventos com informações detalhadas, como datas, valores, número de vagas e configuração de quartos, substituindo processos manuais por uma abordagem automatizada e estruturada. 
+**Autor:** Weverton Ferreira Rodrigues  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+
+O Projeto Integrador II-B propõe o desenvolvimento de um sistema de gerenciamento de eventos voltado para acampamentos, com o objetivo de otimizar a organização de acampamentos em um contexto de igrejas. A solução, batizada de "CampGestor", permite que organizadores cadastrem eventos com informações detalhadas, como datas, valores, número de vagas e configuração de quartos, substituindo processos manuais por uma abordagem automatizada e estruturada.
 
 Acampantes podem se cadastrar na plataforma, visualizar detalhes dos eventos por meio de links compartilháveis e realizar inscrições com escolha de leitos em quartos compatíveis com seu gênero, tudo em poucos passos. Além disso, o sistema envia e-mails automáticos de confirmação e lembretes, eliminando atrasos e garantindo que os inscritos estejam bem informados, o que reduz a dependência de comunicações manuais e melhora a satisfação dos usuários.
 
